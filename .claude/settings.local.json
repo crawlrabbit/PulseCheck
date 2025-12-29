@@ -3,7 +3,9 @@
     "allow": [
       "Bash(gh run list:*)",
       "Bash(rm:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nRemove template sites and configure for Crawlrabbit monitoring\n\n- Removed all template site data \\(Google, Wikipedia, Hacker News, etc.\\)\n- Cleaned up history, api, and graphs directories\n- Updated .upptimerc.yml with workflow schedule configuration\n- Repository now ready to monitor https://crawlrabbit.com/\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)"
     ]
   }
 }
