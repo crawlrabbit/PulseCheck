@@ -10,11 +10,13 @@ status-website:
   baseUrl: /PulseCheck
   name: Crawlrabbit Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  introTitle: "**Crawlrabbit Status Page**"
-  introMessage: Live uptime and performance monitoring for Crawlrabbit.
+  introTitle: "**Crawlrabbit System Status**"
+  introMessage: Real-time uptime and performance monitoring for [Crawlrabbit](https://crawlrabbit.com/) - Your intelligent web crawling solution.
   navbar:
     - title: Status
       href: /
+    - title: Visit Crawlrabbit
+      href: https://crawlrabbit.com/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
