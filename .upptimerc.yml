@@ -21,3 +21,7 @@ status-website:
 # Upptime configuration
 workflowSchedule:
   uptime: "*/5 * * * *"
+  responseTime: "0 * * * *"
+  graphs: "0 * * * *"
+  summary: "0 * * * *"
+  site: "0 * * * *"
