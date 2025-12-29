@@ -7,16 +7,11 @@ sites:
     url: https://crawlrabbit.com/
 
 status-website:
-  # Use your own domain if you have one, otherwise comment this out
-  # cname: demo.upptime.js.org
   baseUrl: /PulseCheck
-  name: CrawlRabbit
-
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Crawlrabbit Status
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   introTitle: "**Crawlrabbit Status Page**"
   introMessage: Live uptime and performance monitoring for Crawlrabbit.
-
   navbar:
     - title: Status
       href: /
