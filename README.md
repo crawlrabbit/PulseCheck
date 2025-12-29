@@ -18,9 +18,9 @@ It monitors the availability of **[https://crawlrabbit.com/](https://crawlrabbit
 
 ## 🌍 Monitored Website
 
-| Name         | URL                         |
-|--------------|-----------------------------|
-| Crawlrabbit  | [https://crawlrabbit.com/](https://crawlrabbit.com/)    |
+| Name        | URL                                                  |
+| ----------- | ---------------------------------------------------- |
+| Crawlrabbit | [https://crawlrabbit.com/](https://crawlrabbit.com/) |
 
 ---
 
