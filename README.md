@@ -28,7 +28,8 @@ It monitors the availability of **https://crawlrabbit.com/** and publishes a pub
 
 The live status page is available at:
 
-👉 **https://demo.upptime.js.org**  
+https://crawlrabbit.github.io/PulseCheck/
+
 *(Replace with your custom domain or GitHub Pages URL if different)*
 
 ---
