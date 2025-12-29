@@ -18,9 +18,9 @@ It monitors the availability of **https://crawlrabbit.com/** and publishes a pub
 
 ## 🌍 Monitored Website
 
-| Name         | URL                         |
-|--------------|-----------------------------|
-| Crawlrabbit  | https://crawlrabbit.com/    |
+| Name        | URL                      |
+| ----------- | ------------------------ |
+| Crawlrabbit | https://crawlrabbit.com/ |
 
 ---
 
@@ -40,5 +40,3 @@ https://crawlrabbit.github.io/PulseCheck/
 - GitHub Pages displays real-time status & charts
 
 ---
-
-
