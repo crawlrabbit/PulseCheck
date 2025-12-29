@@ -40,5 +40,3 @@ The live status page is available at:
 - GitHub Pages displays real-time status & charts
 
 ---
-
-
