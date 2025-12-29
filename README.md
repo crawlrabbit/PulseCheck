@@ -30,8 +30,6 @@ The live status page is available at:
 
 https://crawlrabbit.github.io/PulseCheck/
 
-*(Replace with your custom domain or GitHub Pages URL if different)*
-
 ---
 
 ## ⚙️ How It Works
