@@ -9,7 +9,8 @@ sites:
 status-website:
   # Use your own domain if you have one, otherwise comment this out
   # cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /PulseCheck
+  name: CrawlRabbit
 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Crawlrabbit Status
