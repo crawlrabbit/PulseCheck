@@ -4,17 +4,19 @@
     "url": "https://crawlrabbit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crawlrabbit.com.ico",
     "slug": "crawlrabbit",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 697,
-    "timeDay": 748,
+    "timeDay": 751,
     "timeWeek": 867,
-    "timeMonth": 706,
+    "timeMonth": 707,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-02": 22
+    }
   }
 ]
