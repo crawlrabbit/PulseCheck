@@ -4,7 +4,7 @@
     "url": "https://crawlrabbit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crawlrabbit.com.ico",
     "slug": "crawlrabbit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 936,
     "timeYear": 989,
     "dailyMinutesDown": {
+      "2026-04-23": 0,
       "2026-02-06": 25,
       "2026-02-04": 25,
       "2026-02-02": 22
